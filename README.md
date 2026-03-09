@@ -1,1 +1,11 @@
-# songed.github.io
+# 마인크래프트
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+	<body>
+		<p>기: 친구와 오랜만에 마인크래프트를 해보았습니다.
+		<p>승: 멀리 모험을 떠났다가, 가진 것을 모두 잃어버리고 말았습니다.
+		<p>전: 되찾으려고 떠나는 길에 보물 지도를 발견해 새로운 모험을 떠났습니다.
+		<p>결: 보물 상자를 발견해 훨씬 부유하고 뿌듯한 모습으로 게임을 마무리하고 잠에 들었습니다.
