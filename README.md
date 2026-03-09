@@ -1,9 +1,8 @@
-# 마인크래프트
+
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
+	마인크래프트
+<head>
 	<body>
 		<p>기: 친구와 오랜만에 마인크래프트를 해보았습니다.
 		<p>승: 멀리 모험을 떠났다가, 가진 것을 모두 잃어버리고 말았습니다.
